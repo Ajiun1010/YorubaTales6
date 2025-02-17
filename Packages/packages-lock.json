@@ -279,6 +279,20 @@
       },
       "url": "https://packages.unity.com"
     },
+    "nyc.scatter.depthkit.core": {
+      "version": "file:C:/Users/dbarbieri/Documents/Depthkit/DepthkitStudio_SampleProject_BuiltInRP/DepthkitStudio_SampleProject_BuiltInRP/Packages/depthkit.core",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "nyc.scatter.depthkit.studio": {
+      "version": "file:C:/Users/dbarbieri/Documents/Depthkit/DepthkitStudio_SampleProject_BuiltInRP/DepthkitStudio_SampleProject_BuiltInRP/Packages/depthkit.studio",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "nyc.scatter.depthkit.core": "0.13.4"
+      }
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

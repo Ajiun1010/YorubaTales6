@@ -8,6 +8,8 @@
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.9.4",
     "com.unity.xr.oculus": "4.5.0",
+    "nyc.scatter.depthkit.core": "file:C:/Users/dbarbieri/Documents/Depthkit/DepthkitStudio_SampleProject_BuiltInRP/DepthkitStudio_SampleProject_BuiltInRP/Packages/depthkit.core",
+    "nyc.scatter.depthkit.studio": "file:C:/Users/dbarbieri/Documents/Depthkit/DepthkitStudio_SampleProject_BuiltInRP/DepthkitStudio_SampleProject_BuiltInRP/Packages/depthkit.studio",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
